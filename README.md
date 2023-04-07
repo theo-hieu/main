@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Timothy, Mechanical Engineer</title>
+	<title>Theo, Mechanical Engineer</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
