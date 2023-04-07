@@ -6,7 +6,7 @@
 </head>
 <body>
 	<header>
-		<h1>Timothy, Mechanical Engineer</h1>
+		<h1>Theo, Mechanical Engineer</h1>
 	</header>
 	<nav>
 		<ul>
